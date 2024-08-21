@@ -14,7 +14,7 @@ timezone: Europe/London
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Timothy Ransom's Blog # the main title
 
 tagline: Cloud Engineer | Microsoft Azure, Microsoft 365, Intune, PowerShell, Cybersecurity # it will display as the sub-title
 
